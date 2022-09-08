@@ -1,1 +1,2 @@
-print ("Ejercicio uno")
+print("Ejercicio uno")
+print("Segundo mensaje")
